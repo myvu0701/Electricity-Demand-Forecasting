@@ -1,16 +1,16 @@
--- Package name: PKG_2020MAIN
---Author:            : Thi Thao My VU
---Student ID       : 12862177
---Date                : 05-June-2020
+--Package name:         PKG_2020MAIN
+--Author:               Thi Thao My VU
+--Student ID:           12862177
+--Date:                 05-June-2020
 
 -- The following package PKG_2020MAIN include, package Spec and packeage body.
 
--- Package spec contain: 
+--Package spec contain: 
 --Function is_holiday: consider if the given day is holiday
 --Function has_holiday_data: consider if there is volume consumption on holiday in v_nem_rm16 table
 --PROCEDURE RM16_forecast: procedure that loop from day 1 to day 14, to forecast the average consumption volume for 14 days into the future. 
 
--- Package body contain:
+--Package body contain:
 --Function is_holiday: consider if the given day is holiday.
 --Function has_holiday_data: consider if there is volume consumption on holiday in v_nem_rm16 table.
 --Procedure change_type_and_date: This procedure change the statement type and input change date.
